@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>design-pattern</module>
+        <module>concurrent-programming</module>
     </modules>
 
 
