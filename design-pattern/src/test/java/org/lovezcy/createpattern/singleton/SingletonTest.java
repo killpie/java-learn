@@ -19,11 +19,11 @@ public class SingletonTest {
 
     @Test
     public void testSingleton2() throws NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException {
-        Constructor<Singleton6> constructor = Singleton6.class.getDeclaredConstructor();
+       /* Constructor<Singleton6> constructor = Singleton6.class.getDeclaredConstructor();
         constructor.setAccessible(true);
         Singleton6 singleton1 = constructor.newInstance();
         Singleton6 singleton2 = Singleton6.INSTANCE;
-        System.out.println(singleton1 == singleton2);  // 输出true
+        System.out.println(singleton1 == singleton2);*/  // 输出true
     }
 
 

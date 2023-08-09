@@ -6,4 +6,8 @@ public enum Singleton6 {
     public void doSomething() {
         System.out.println("do something");
     }
+
+    Singleton6() {
+        System.out.println("init");
+    }
 }

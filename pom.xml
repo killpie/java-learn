@@ -12,6 +12,7 @@
         <module>design-pattern</module>
         <module>concurrent-programming</module>
         <module>algorithm</module>
+        <module>mapstruct</module>
     </modules>
 
 
