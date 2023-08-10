@@ -24,4 +24,5 @@ public class UserPo {
     private Long age;
     private String userNick;
     private String userVerified;
+    private String attributes;
 }
